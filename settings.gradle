@@ -1,0 +1,2 @@
+include ':app',':verticalslidecolorpicker',':puzzle',':poiphoto'
+rootProject.name = "PhotoEditor"

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="FontFamily">
+        <item>fonts/font0.ttf</item>
+        <item>fonts/font1.otf</item>
+        <item>fonts/font2.TTF</item>
+        <item>fonts/font3.TTF</item>
+        <item>fonts/font4.TTF</item>
+        <item>fonts/font5.ttf</item>
+        <item>fonts/font6.TTF</item>
+        <item>fonts/font7.ttf</item>
+        <item>fonts/font8.ttf</item>
+        <item>fonts/font9.ttf</item>
+        <item>fonts/font10.ttf</item>
+        <item>fonts/font11.ttf</item>
+        <item>fonts/font12.otf</item>
+        <item>fonts/font14.otf</item>
+        <item>fonts/font15.otf</item>
+        <item>fonts/font16.otf</item>
+        <item>fonts/font17.ttf</item>
+        <item>fonts/font18.ttf</item>
+        <item>fonts/font19.ttf</item>
+        <item>fonts/font20.ttf</item>
+        <item>fonts/font21.ttf</item>
+        <item>fonts/font22.ttf</item>
+        <item>fonts/font23.ttf</item>
+        <item>fonts/font24.ttf</item>
+        <item>fonts/font25.ttf</item>
+        <item>fonts/font26.ttf</item>
+        <item>fonts/font27.ttf</item>
+        <item>fonts/font28.ttf</item>
+        <item>fonts/font29.ttf</item>
+        <item>fonts/font30.ttf</item>
+        <item>fonts/font31.ttf</item>
+        <item>fonts/font32.otf</item>
+        <item>fonts/font33.ttf</item>
+        <item>fonts/font34.ttf</item>
+        <item>fonts/font35.ttf</item>
+        <item>fonts/font36.ttf</item>
+        <item>fonts/font37.ttf</item>
+        <item>fonts/font39.otf</item>
+        <item>fonts/font40.ttf</item>
+        <item>fonts/font41.ttf</item>
+        <item>fonts/font42.ttf</item>
+        <item>fonts/font43.ttf</item>
+        <item>fonts/font44.ttf</item>
+        <item>fonts/font45.ttf</item>
+        <item>fonts/font46.ttf</item>
+        <item>fonts/font47.ttf</item>
+        <item>fonts/font48.ttf</item>
+        <item>fonts/font49.ttf</item>
+        <item>fonts/font50.ttf</item>
+        <item>fonts/font51.ttf</item>
+        <item>fonts/font52.ttf</item>
+        <item>fonts/font53.ttf</item>
+        <item>fonts/font54.ttf</item>
+        <item>fonts/font55.otf</item>
+        <item>fonts/font56.ttf</item>
+        <item>fonts/font57.ttf</item>
+        <item>fonts/font58.ttf</item>
+        <item>fonts/font59.ttf</item>
+        <item>fonts/font60.ttf</item>
+        <item>fonts/font61.otf</item>
+        <item>fonts/font62.otf</item>
+        <item>fonts/font63.ttf</item>
+        <item>fonts/font64.otf</item>
+        <item>fonts/font65.ttf</item>
+        <item>fonts/font66.ttf</item>
+        <item>fonts/font67.ttf</item>
+        <item>fonts/font68.ttf</item>
+        <item>fonts/font69.ttf</item>
+        <item>fonts/font70.ttf</item>
+        <item>fonts/font71.ttf</item>
+        <item>fonts/font72.ttf</item>
+        <item>fonts/font73.ttf</item>
+        <item>fonts/font74.ttf</item>
+    </string-array>
+
+    <string-array name="FontStyle">
+        <item>Normal</item>
+        <item>Bold</item>
+        <item>Italic</item>
+        <item>Bold Italic</item>
+    </string-array>
+
+    <string-array name="freq_notification">
+        <item>Off</item>
+        <item>On</item>
+    </string-array>
+
+</resources>

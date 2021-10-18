@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="vscp_default_colors">
+        <!-- workaround to work well with AS preview -->
+        <item>-65536</item>    <!--<item>#ff0000</item>-->
+        <item>-256</item>        <!--<item>#ffff00</item>-->
+        <item>-16711681</item>    <!--<item>#00ffff</item>-->
+        <item>-65281</item>    <!--<item>#ff00ff</item>-->
+    </array>
+</resources>

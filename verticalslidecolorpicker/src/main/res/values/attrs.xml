@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="VerticalSlideColorPicker" tools:ignore="ResourceName">
+        <attr name="vBorderColor" format="color" />
+        <attr name="vBorderWidth" format="dimension" />
+        <attr name="vColors" format="reference" />
+        <attr name="vDefaultColor" format="color" />
+    </declare-styleable>
+</resources>

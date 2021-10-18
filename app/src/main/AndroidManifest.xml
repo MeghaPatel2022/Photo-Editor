@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bbotdev.photoeditorlab">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".Application.Myapplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".Activity.FilterActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.ProcessActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.PlaygroundActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.CollageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.BrushActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.AddTextActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.CropImgActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.EditActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.ImageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.GalleryActivity"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".Welcome.SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Activity.MainActivity"
+            android:screenOrientation="portrait" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.bbotdev.photoeditorlab.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths" />
+        </provider>
+
+        <!--        <meta-data-->
+        <!--            android:name="com.facebook.sdk.ApplicationId"-->
+        <!--            android:value="@string/facebook_app_id"/>-->
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/app_id" />
+
+
+    </application>
+
+</manifest>

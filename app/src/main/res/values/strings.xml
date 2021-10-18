@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Photo Lab Editor</string>
+
+    <string name="empty">No Images on this device</string>
+
+    <string name="crop">Crop</string>
+    <string name="effect">Effect</string>
+    <string name="text">Text</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="brushes">Brushes</string>
+    <string name="lens_flare">Lens Flare</string>
+
+    <string name="transfrom">Transform</string>
+    <string name="rotate">Rotate</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+
+    <string name="cs_free_size">Free Size</string>
+    <string name="cs1_1">1:1</string>
+    <string name="cs4_5">4:5</string>
+    <string name="cs_story">Story</string>
+    <string name="cs_post">Post</string>
+    <string name="cs_cover">Cover</string>
+    <string name="cs_thumb">Thumbnail</string>
+    <string name="cs_header">Header</string>
+
+    <string name="color_name">Color</string>
+    <string name="text_style">Text Style</string>
+    <string name="bold">Bold</string>
+    <string name="italic">Italic</string>
+    <string name="underline">Underline</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+
+    <string name="prompt.select.layout">Choose layout</string>
+    <string name="prompt.playground">Playground</string>
+
+    <string name="prompt.save">Save</string>
+    <string name="prompt.edit">edit</string>
+    <string name="prompt.replace">replace</string>
+    <string name="prompt.rotate">Spin</string>
+    <string name="prompt.flip.horizontal">Mirror</string>
+    <string name="prompt.flip.vertical">Flip</string>
+    <string name="prompt.border">frame</string>
+    <string name="prompt_share_failed">Sharing failed</string>
+    <string name="prompt_share">share it</string>
+    <string name="prompt_save_success">Saved successfully</string>
+    <string name="prompt.corner">Fillet</string>
+
+    <string name="prompt_save_failed">Save failed</string>
+
+    <string name="activity_title_main">Filters</string>
+    <string name="action_settings">Settings</string>
+    <string name="filters">FILTERS</string>
+    <string name="edit">EDIT</string>
+
+    <string name="lbl_brightness">BRIGHTNESS</string>
+    <string name="lbl_contrast">CONTRAST</string>
+    <string name="lbl_saturation">SATURATION</string>
+    <string name="tab_filters">FILTERS</string>
+    <string name="tab_edit">EDIT</string>
+
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="filter_normal">Normal</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_open">OPEN</string>
+
+    <string name="app_id">ca-app-pub-1599168469857155~2574937114</string>
+    <!--    <string name="banner_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="banner_ad">ca-app-pub-1599168469857155~2574937114</string>
+
+    <string name="ad_unit_id_banner">b195f8dd8ded45fe847ad89ed1d016da</string>
+    <string name="ad_unit_id_interstitial">24534e1901884e398f1253216226017e</string>
+
+    <!-- Facebook ADs Placement ID -->
+    <!--    <string name="fb_banner_placementID">IMG_16_9_APP_INSTALL#721494335235057_721494651901692</string>-->
+    <!--    <string name="fb_inter_placementID">721494335235057_721495131901644</string>-->
+    <!--    <string name="facebook_app_id">721494335235057</string>-->
+
+
+</resources>

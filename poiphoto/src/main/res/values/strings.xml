@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PoiPhoto</string>
+    <string name="action_done">DONE</string>
+    <string name="title.album">Please select an album</string>
+    <string name="title.photo">Please select a photo</string>
+    <string name="btn.jump.to.photo">jump to display photos</string>
+
+    <string name="app_id">ca-app-pub-1599168469857155~2574937114</string>
+    <!--        <string name="banner_ad">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="banner_ad">ca-app-pub-1599168469857155/8565630392</string>
+
+    <!-- Facebook ADs Placement ID -->
+    <!--    <string name="fb_banner_placementID">IMG_16_9_APP_INSTALL#721494335235057_721494651901692</string>-->
+    <!--    <string name="fb_inter_placementID">721494335235057_721495131901644</string>-->
+    <!--    <string name="facebook_app_id">721494335235057</string>-->
+
+    <!-- MoPub Ads -->
+    <string name="ad_unit_id_banner">b195f8dd8ded45fe847ad89ed1d016da</string>
+    <string name="ad_unit_id_interstitial">24534e1901884e398f1253216226017e</string>
+
+</resources>
